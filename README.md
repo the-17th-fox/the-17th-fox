@@ -4,7 +4,7 @@ I specialize on `backend` development of `RESTful` `WebAPIs`.
 <br />
 <br />
 ### 📦 Frameworks and Utilities I use most often
-`ASP.NET Core` `Entity Framework Core` `xUnit` `Postman`
+`ASP.NET Core 6` `Entity Framework Core` `xUnit` `Postman`
 <br />
 <br />
 ### Also a little experience with
