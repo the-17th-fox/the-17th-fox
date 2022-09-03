@@ -3,8 +3,12 @@
 I specialize on `backend` development of `RESTful` `WebAPIs`.
 <br />
 <br />
-### 📦 Technologies and patterns
-`ASP.NET Core 6` `Entity Framework Core` `xUnit` `Postman` `Docker` `Scrum & Agile`
+### 📦 Technologies and frameworks
+`Microservices` `ASP.NET Core 6` `Entity Framework Core` `Docker` `Ocelot` <br />
+
+Team managing: `Scrum, Agile, Kanban`<br />
+Databases: `MongoDB` `MSSQL`<br />
+Testing: `Postman` `xUnit`
 <br />
 <br />
 ### Also a little experience with
