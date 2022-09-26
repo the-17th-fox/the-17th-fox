@@ -4,7 +4,7 @@ I specialize on `backend` development of `RESTful` `WebAPIs`.
 <br />
 <br />
 ### 📦 Technologies and frameworks
-`Microservices` `ASP.NET Core 6` `Entity Framework Core` `Docker` `Ocelot` <br />
+`Microservices` `ASP.NET Core 6` `Entity Framework Core` `Docker` `Ocelot` `Redis`<br />
 
 Team managing: `Scrum, Agile, Kanban`<br />
 Databases: `MongoDB` `MSSQL`<br />
