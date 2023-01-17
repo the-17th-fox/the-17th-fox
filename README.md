@@ -1,14 +1,14 @@
-### About me
-`.NET Developer` from Belarus.<br />
-I specialize on `backend` development of `RESTful` `WebAPIs`.
+`.NET Developer`<br />
+More than year of experience developing __RESTful WebAPIs__ and a bit more than 2 years of experience with __.NET__ itself.
 <br />
 <br />
-### 📦 Technologies and frameworks
-`Microservices` `ASP.NET Core 6` `Entity Framework Core` `Docker` `Ocelot` `Redis`<br />
+### 📦 Main stack
+`C#` — `ASP.NET Core 6 (WebAPI / MVC)` — `Entity Framework Core 6` — `Identity Server` — `Microservices`<br /><br />
 
-Team managing: `Scrum` `Agile` `Kanban`<br />
-Databases: `MongoDB` `MsSQL`<br />
-Testing: `Postman` `xUnit`
+### Additional technologies and frameworks
+Microservices deploying: `Docker-Compose` `Ocelot` `RabbitMq (MassTransit)`<br />
+Experience in SQL and NoSQL solutions: `MsSQL` `PostgreSQL` `MongoDB`<br />
+Other: `Serilog (logging)` `AutoMapper` `xUnit (unit tests)` `MemCache/Redis (caching)`
 <br />
 <br />
 ### Also I familar with
