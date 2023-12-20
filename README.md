@@ -1,5 +1,5 @@
 ◾Main stack:
-.NET 6 (C#) — ASP.NET Core 6 — Entity Framework Core 6 — WebAPI — REST
+.NET (C#) — Angular — ASP.NET Core — Entity Framework Core — WebAPI — REST
 <hr>
 
 ▪️Practical knowledge in running microservices: Docker, CI/CD, Kubernetes, Ocelot, RabbitMq (MassTransit), Confluent Kafka, Google Cloud.
